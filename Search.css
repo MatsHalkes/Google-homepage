@@ -23,6 +23,10 @@
   .form{
     text-align: center;
     padding-top: 50px;
+    
+  }
+
+  .form-search{
     line-height: 32px;
     width: 450px;
   }
